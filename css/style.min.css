@@ -1567,6 +1567,13 @@ body.locked > .body__shadow {
 	height: 64px;
 	width: 100%;
 }
+@media (max-width: 540px) {
+	.services__item-8-button {
+		margin: 5px;
+		margin-top: 32px;
+		width: 97%;
+	}
+}
 .services__item-8-button:hover .services__item-8-call {
 	text-decoration: underline;
 }
